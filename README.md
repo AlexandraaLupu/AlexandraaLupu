@@ -1,8 +1,10 @@
-#Hi there 👋
+# Hi there 👋
 
 I'm currently studying for my Bachelor's Degree in Computer Science at Babes-Bolyai University and I'm looking for opportunities in this industry. 
 
 I'm open to trying new technologies and I'm looking forward to learning new things. :star:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandraaLupu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlexandraaLupu/AlexandraaLupu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
