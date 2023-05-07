@@ -4,7 +4,11 @@ I'm currently studying for my Bachelor's Degree in Computer Science at Babes-Bol
 
 I'm open to trying new technologies and I'm looking forward to learning new things. :star:
 
+<p align="center">
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexandraaLupu&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+
 
 <!--
 **AlexandraaLupu/AlexandraaLupu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
