@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm currently studying for my Bachelor's Degree in Computer Science at Babes-Bolyai University and I'm looking for opportunities in this industry. 
+I'm currently studying for my Bachelor's Degree in Computer Science at Babes-Bolyai University and I'm looking for new opportunities in this industry. 
 
 I'm open to trying new technologies and I'm looking forward to learning new things. :star:
 
